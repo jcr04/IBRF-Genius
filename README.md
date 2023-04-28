@@ -16,8 +16,8 @@ Este projeto consiste na criação de uma versão web do jogo Simon utilizando H
 
 # Desenvolvimento
 O Simon foi desenvolvido utilizando as seguintes tecnologias:
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 # autor
